@@ -1,6 +1,6 @@
 # ⚡ LocalManus
 
-**An open-source, locally-running agentic AI** — inspired by Manus, built on the architecture described in [*How AI Agents Actually Do Things*](https://www.linkedin.com/pulse/).
+**An open-source, locally-running agentic AI** — inspired by Manus, built on the architecture described in [*How AI Agents Actually Do Things*](https://medium.com/@somrout/how-ai-agents-actually-do-things-the-full-architecture-behind-agentic-ai-007ff730dd48).
 
 Run complex multi-step tasks (code, files, web search) entirely on your own machine with [Ollama](https://ollama.com), or plug in OpenAI / Anthropic with one config change.
 
